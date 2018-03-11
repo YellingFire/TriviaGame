@@ -1,0 +1,79 @@
+/* * {
+    outline: 1px solid red !important;
+ } */
+
+ #bodyBack {
+    background-image:url("assets/images/matrix-background.jpg");
+ }
+
+.bigHead {
+    width: 100%;
+}
+
+
+.startDisplay {
+    display: none;
+
+}
+
+.gameContainer {
+    border: solid 5px rgb(20, 238, 20);
+    width: 80%;
+    height: auto;
+    padding: 10px 20px 10px 20px;
+    background: black;
+}
+
+.clockContainer {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(20, 238, 20);
+    background: black;
+}
+#clock-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    background: black;
+}
+
+.ansReveal {
+    font-size: 24px;
+    /* text-align: center; */
+    font-weight: bold;
+    color: white;
+    background: black;
+}
+
+.numDisplay {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(20, 238, 20);
+    background: black;
+}
+
+#numberTitle {
+    color: white;
+    background: black;
+}
+
+.questionField {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background: black;
+}
+
+.buttonField {
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    color: rgb(20, 238, 20);
+    background: black;
+
+}
